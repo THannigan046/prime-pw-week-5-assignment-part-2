@@ -1,0 +1,19 @@
+header{
+  background-color: darkslateblue;
+  text-align: center;
+}
+h1{
+  color: azure;
+}
+h2{
+  color: azure;
+}
+main{
+  background-color: lightslategrey;
+  padding: 1em;
+}
+body{
+  background-image: url(record.png);
+  background-repeat: initial;
+  margin: 0;
+}
